@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>talzeev.github.io/id/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="talzeev.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="talzeev.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="talzeev.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="talzeev.github.io/id/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>talzeev.github.io/id/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="talzeev.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="talzeev.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="talzeev.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="talzeev.github.io/id/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>talzeev.github.io/id/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="talzeev.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="talzeev.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="talzeev.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="talzeev.github.io/id/"
+                />
+  </url>
+  
+</urlset>
