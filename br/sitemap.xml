@@ -3,42 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="se"
-                href="/se/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="/br/"
-                />
+    <loc>/br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>/posts/under/</loc>
-    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -54,15 +24,15 @@
                 hreflang="br"
                 href="/br/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/categories/"
-                />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/br/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -78,10 +48,29 @@
                 hreflang="br"
                 href="/br/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>/br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="/se/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/"
                 />
   </url>
   

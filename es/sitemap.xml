@@ -3,46 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="se"
-                href="/se/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="/br/"
-                />
+    <loc>/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
-                />
-  </url>
-  
-  <url>
-    <loc>/posts/under/</loc>
-    <lastmod>2020-06-08T06:00:23+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="/es/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -56,17 +21,17 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="/categories/"
+                hreflang="es"
+                href="/es/categories/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="es"
-                href="/es/tags/"
+                hreflang="en"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -80,8 +45,32 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/es/</loc>
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="se"
+                href="/se/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="/br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
                 />
   </url>
   

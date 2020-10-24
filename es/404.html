@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Categories</title>
+    <title>404 Page not found</title>
     <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
@@ -23,8 +23,7 @@
 <link rel="stylesheet" href="/assets/css/style.css"/>
 
     
-    <link rel="stylesheet" href="/assets/css/layouts/list.css">
-    <link rel="stylesheet" href="/assets/css/navigators/sidebar.css">
+    <link rel="stylesheet" href="/assets/css/404.css">
 
 
     
@@ -62,7 +61,7 @@ if (!doNotTrack) {
       <button class="navbar-toggler navbar-light" id="sidebar-toggler" type="button" onclick="toggleSidebar()">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="/">
+    <a class="navbar-brand" href="/es">
       <img src="/assets/images/main-logo.png">Tal Berenstein</a>
     <button class="navbar-toggler navbar-light" id="toc-toggler" type="button" onclick="toggleTOC()">
       <span class="navbar-toggler-icon"></span>
@@ -70,36 +69,6 @@ if (!doNotTrack) {
 
     <div class="collapse navbar-collapse lang-selector" id="top-nav-items">
       <ul class="navbar-nav ml-auto">
-      
-        
-
-  
-
-
-<li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" href="#" id="languageSelector" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      <img class="flag" src="https://www.countryflags.io/gb/flat/16.png">
-      English
-    </a>
-    <div class="dropdown-menu" aria-labelledby="languageSelector">
-      
-        <a class="dropdown-item nav-link languages-item" href="/es/categories">
-          <img class="flag" src="https://www.countryflags.io/es/flat/24.png">
-          Spanish
-        </a>
-      
-        <a class="dropdown-item nav-link languages-item" href="/se/categories">
-          <img class="flag" src="https://www.countryflags.io/se/flat/24.png">
-          Swedish
-        </a>
-      
-        <a class="dropdown-item nav-link languages-item" href="/br/categories">
-          <img class="flag" src="https://www.countryflags.io/br/flat/24.png">
-          Portuguese
-        </a>
-      
-    </div>
-</li>
       
       </ul>
     </div>
@@ -112,54 +81,19 @@ if (!doNotTrack) {
 
 
       
+       
+
       
-  
-  
-    
-  
-
-  <section class="sidebar-section" id="sidebar-section">
-    <div class="sidebar-holder">
-      <div class="sidebar" id="sidebar">
-        <input type="text" value="" placeholder="Search" data-search="" id="search-box" />
-        <div class="sidebar-tree">
-          <ul class="tree" id="tree">
-            <li id="list-heading"><a href="posts" data-filter="all">Posts</a></li>
-            <div class="subtree">
-                
-  
-  
-  
-  
-  
-    
-    <li><a class="" href="/posts/under/">UNDER</a></li>
-  
-
-
-            </div>
-          </ul>
+      
+<div class="container">
+    <div class="notFound">
+        <img src="/assets/images/404.png" alt="">
+        <div class="message">
+            <h1>404</h1>
+            <h4>The page you are looking for is not there yet.</h4>
         </div>
-      </div>
     </div>
-  </section>
-
-
-      
-      
-<section class="content-section" id="content-section">
-  <div class="content container-fluid" id="content">
-    <div class="container-fluid post-card-holder" id="post-card-holder">
-      
-      
-    </div>
-    <div class="paginator">
-      
-
-
-    </div>
-  </div>
-</section>
+</div>
 
 
       
@@ -276,8 +210,6 @@ if (!doNotTrack) {
 
 
     
-    
-    <script src="/assets/js/list.js"></script>
-
+     
   </body>
 </html>
