@@ -3,74 +3,74 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>talzeev.github.io/fr/categories/</loc>
+    <loc>/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="talzeev.github.io/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="talzeev.github.io/de/categories/"
+                href="/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="talzeev.github.io/id/categories/"
+                href="/id/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="talzeev.github.io/fr/categories/"
+                href="/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>talzeev.github.io/fr/tags/</loc>
+    <loc>/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="talzeev.github.io/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="talzeev.github.io/de/tags/"
+                href="/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="talzeev.github.io/id/tags/"
+                href="/id/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="talzeev.github.io/fr/tags/"
+                href="/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>talzeev.github.io/fr/</loc>
+    <loc>/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="talzeev.github.io/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="talzeev.github.io/de/"
+                href="/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="id"
-                href="talzeev.github.io/id/"
+                href="/id/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="talzeev.github.io/fr/"
+                href="/fr/"
                 />
   </url>
   
